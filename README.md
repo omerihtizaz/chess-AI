@@ -1,2 +1,3 @@
 # chess-AI
-This chess AI BOT has been engineered using minimax and alpha beta pruning. 
+Using Artificial Intelligence, I have designed this chess bot, which uses minimax algorithm with alpha beta pruning. 
+This bot has beaten the expert level bot on chess.com
